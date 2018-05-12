@@ -1,10 +1,16 @@
 _repo: Pioneer-Imprints-From-Fifty-States_48794
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48794-h/images/cover.jpg
 creator:
   author:
     agent_name: Trienens, Roger J.
     gutenberg_agent_id: '44971'
     url: http://www.gutenberg.org/2009/agents/44971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48794#Pioneer-Imprints-From-Fifty-States
 gutenberg_issued: '2015-04-26'
 gutenberg_type: Text
 identifiers:
